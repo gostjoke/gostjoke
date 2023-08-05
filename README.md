@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Foxconn.
-- 🌱 I’m currently learning Deep Learning, Full Stack (Django). Vue3.
+<div>
+- 🌱 I’m currently learning Deep Learning, Full Stack (Django). Vue3. 
+</div>
+
 <img src="https://thumbs.dreamstime.com/b/your-future-past-21434917.jpg" alt="Dead">  
 
 
