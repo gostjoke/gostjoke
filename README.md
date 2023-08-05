@@ -16,7 +16,7 @@
 </body>
 </html>
 
-<img src="https://thumbs.dreamstime.com/b/your-future-past-21434917.jpg" alt="Dead">  
+<img src="https://github.com/gostjoke/gostjoke/blob/main/assets/name.gif" alt="Dead">  
 
 
 <!--
