@@ -1,11 +1,21 @@
-<div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
   <div>
-  - 🌱 I’m currently learning Deep Learning, Full Stack (Django). Vue3. 
+    <div>
+    - 🌱 I’m currently learning Deep Learning, Full Stack (Django). Vue3. 
+    </div>
+    <div>
+    - Current still working for this page....
+    </div>
   </div>
-  <div>
-  - Current still working for this page....
-  </div>
-</div>
+</body>
+</html>
 
 <img src="https://thumbs.dreamstime.com/b/your-future-past-21434917.jpg" alt="Dead">  
 
