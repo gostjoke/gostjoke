@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Foxconn.
+- 🌱 I’m currently learning Deep Learning, Full Stack (Django). Vue3.
+<img src="https://thumbs.dreamstime.com/b/your-future-past-21434917.jpg" alt="Dead">  
+
 
 <!--
 **gostjoke/gostjoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
