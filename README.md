@@ -11,7 +11,7 @@
     - 🌱 I’m currently learning Deep Learning, Full Stack (Django). Vue3. 
     </div>
     <div>
-    - Current still working for this page....
+    - 🔭 Current still working for this page....
     </div>
   </div>
 </body>
