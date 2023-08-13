@@ -5,10 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img src="https://github.com/gostjoke/gostjoke/blob/main/assets/credly.png" alt="IMG Dead">  
+
   <div>
     <div>
         Hi My name is Will, so glad to see you visit my page. Hope you can enjoy this place.
+    </div>
+    <hr>
+    <div> <span style="color:red;"> My badget </span>
+      <img src="https://github.com/gostjoke/gostjoke/blob/main/assets/credly.png" alt="IMG Dead">  
     </div>
     <div>
     - ⚡ Good At: Python, SQL, html/CSS. Javascript.
