@@ -8,7 +8,7 @@
 
   <div>
     <div>
-        Hi My name is Will, so glad to see you visit my page. Hope you can enjoy this place.
+        <h2>Hi My name is Will, so glad to see you visit my page. Hope you can enjoy this place. </h2>
     </div>
     <hr>
     <div> <span style="color:red;"> My badget </span>
