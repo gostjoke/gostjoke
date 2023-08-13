@@ -15,7 +15,9 @@
       <img src="https://github.com/gostjoke/gostjoke/blob/main/assets/credly.png" alt="IMG Dead">  
     </div>
     <div>
-    - ⚡ Good At: Python, SQL, html/CSS. Javascript.
+    - ⚡ Proficient in: Python, SQL. 
+    - ⚡ Average in: HTML/CSS, JS. 
+    - ⚡ Beginner in: C++, C#
     </div>
     <div>
     - 🌱 I’m currently learning Deep Learning, Full Stack (Django), Node.js, Vue3, AWS cloud, IBM cloud. 
