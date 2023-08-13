@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img src="https://github.com/gostjoke/gostjoke/blob/main/assets/rd3.png" alt="IMG Dead">  
+<img src="https://github.com/gostjoke/gostjoke/blob/main/assets/credly.png" alt="IMG Dead">  
   <div>
     <div>
     - 🌱 I’m currently learning Deep Learning, Full Stack (Django). Vue3. 
