@@ -8,10 +8,16 @@
 <img src="https://github.com/gostjoke/gostjoke/blob/main/assets/credly.png" alt="IMG Dead">  
   <div>
     <div>
-    - 🌱 I’m currently learning Deep Learning, Full Stack (Django). Vue3. 
+        Hi My name is Will, so glad to see you visit my page. Hope you can enjoy this place.
     </div>
     <div>
-    - 🔭 Current still working for this page....
+    - ⚡ Good At: Python, SQL, html/CSS. Javascript.
+    </div>
+    <div>
+    - 🌱 I’m currently learning Deep Learning, Full Stack (Django), Node.js, Vue3, AWS cloud, IBM cloud. 
+    </div>
+    <div>
+    - 🔭 Sorry, I am still working on this page....
     </div>
   </div>
 </body>
