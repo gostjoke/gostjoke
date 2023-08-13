@@ -15,8 +15,8 @@
       <img src="https://github.com/gostjoke/gostjoke/blob/main/assets/credly.png" alt="IMG Dead">  
     </div>
     <div>
-    - ⚡ Proficient in: Python, SQL. 
-    - ⚡ Average in: HTML/CSS, JS. 
+    - ⚡ Proficient in: Python, SQL 
+    - ⚡ Average in: HTML/CSS, JS, ABAP
     - ⚡ Beginner in: C++, C#
     </div>
     <div>
