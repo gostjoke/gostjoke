@@ -43,7 +43,7 @@
 | **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
 | **OS**                                          | Windows, Ubuntu(Linux)|
 | **Tools & Platform**                            | HTML5/CSS|
-| **Machine Learning / Deep Learning frameworks** | Scikit-Learn,  Matplotlib|
+| **Machine Learning** | Scikit-Learn,  Matplotlib|
 
 
 - My home: San Jose
