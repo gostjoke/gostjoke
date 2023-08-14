@@ -35,10 +35,11 @@
 
 | Property                                        | Data                                                                     |
 |-------------------------------------------------|--------------------------------------------------------------------------|
-| **Language / IDE**                              | Python, SQL, ABAP, JavaScript, Html/CSS                                  |
-| **IDE Prefer**                                  | Viusal Studio Code, Visual Studio,PyCharm|
+| **Language**                                    | Python, SQL, ABAP, JavaScript, Html/CSS                                  |
+| **IDE Prefer**                                  | Viusal Studio Code, Visual Studio, PyCharm|
 | **Domain Knownledge**                           | ML, DataBase, Office Automation, Web Scritping, SAP Scritping, Fullstack(Django), SupplyChain, SAP ERP (MM, FI) |
 | **CI / CD**                                     | Github, Git |
+| **Cloud**                                       | IBM Cloud   |
 | **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
 | **OS**                                          | Windows, Ubuntu |
 | **Tools & Platform**                            | HTML5/CSS|
