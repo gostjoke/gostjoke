@@ -23,7 +23,7 @@
     - 🌱 I’m currently learning Deep Learning, Full Stack (Django), Node.js, Vue3, AWS cloud, IBM cloud. 
     </div>
     <div>
-    - 🔭 Sorry, I am still working on this page....
+    - 🔭 Sorry, I am still working on this page...., will bring more good introduction to you!
     </div>
   </div>
 </body>
