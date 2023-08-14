@@ -43,10 +43,34 @@
 | **OS**                                          | Windows, Ubuntu |
 | **Tools & Platform**                            | HTML5/CSS|
 | **Machine Learning / Deep Learning frameworks** | Scikit-Learn,  matplotlib|
+37.32803839872611, -121.9180914444955
 
+- My home: San Jose
+  
+ ```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [-121.8, 37.2],
+             [-121.91,37.4]
+         ]
+       ]
+     }
+   }
+ ]
+}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d....&q=37.34503703773162,-121.94465950412543" width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
+```
 
 <!--
 **gostjoke/gostjoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
