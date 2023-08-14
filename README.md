@@ -38,6 +38,7 @@
 | **Language**                                    | Python, SQL, ABAP, JavaScript, Html/CSS                                  |
 | **IDE Prefer**                                  | Viusal Studio Code, Visual Studio, PyCharm|
 | **Domain Knownledge**                           | ML, DataBase, Office Automation, Web Scritping, SAP Scritping, Fullstack(Django), SupplyChain, SAP ERP (MM, FI) |
+| **WEB Knownledge**                              | Python:Django, Flask.     JS Node.js, Express, React.     Other: Postman, TCP/IP|
 | **CI / CD**                                     | Github, Git |
 | **Cloud/Platform**                              | IBM Cloud, Docker  |
 | **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
