@@ -30,6 +30,19 @@
 </html>
 
 <img src="https://github.com/gostjoke/gostjoke/blob/main/assets/name.gif" alt="IMG Dead">  
+<!--   my-skils -->
+
+
+| Property                                        | Data                                                                     |
+|-------------------------------------------------|--------------------------------------------------------------------------|
+| **Language / IDE**                              | Python, SQL, ABAP, JavaScript, Html/CSS                                  |
+| **IDE Prefer**                                  | Viusal Studio Code, Visual Studio,PyCharm|
+| **Domain Knownledge**                           | ML, DataBase, Office Automation, Fullstack(Django), SupplyChain, SAP ERP |
+| **CI / CD**                                     | Github, Git |
+| **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
+| **OS**                                          | Windows, Ubuntu |
+| **Tools & Platform**                            | HTML5/CSS|
+| **Machine Learning / Deep Learning frameworks** | Scikit-Learn,  matplotlib|
 
 
 <!--
