@@ -15,9 +15,9 @@
       <img src="https://github.com/gostjoke/gostjoke/blob/main/assets/credly.png" alt="IMG Dead">  
     </div>
     <div>
-    - ⚡ Proficient in: Python, SQL 
-    - ⚡ Average in: HTML/CSS, JS, ABAP
-    - ⚡ Beginner in: C++, C#
+    <span> - ⚡ Proficient in: Python, SQL  </span>
+    <span> - ⚡ Average in: HTML/CSS, JS, ABAP </span>
+    <span> - ⚡ Beginner in: C++, C# </span>
     </div>
     <div>
     - 🌱 I’m currently learning Deep Learning, Full Stack (Django), Node.js, Vue3, AWS cloud, IBM cloud. 
@@ -37,7 +37,7 @@
 |-------------------------------------------------|--------------------------------------------------------------------------|
 | **Language / IDE**                              | Python, SQL, ABAP, JavaScript, Html/CSS                                  |
 | **IDE Prefer**                                  | Viusal Studio Code, Visual Studio,PyCharm|
-| **Domain Knownledge**                           | ML, DataBase, Office Automation, Fullstack(Django), SupplyChain, SAP ERP |
+| **Domain Knownledge**                           | ML, DataBase, Office Automation, Web Scritping, SAP Scritping, Fullstack(Django), SupplyChain, SAP ERP (MM, FI) |
 | **CI / CD**                                     | Github, Git |
 | **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
 | **OS**                                          | Windows, Ubuntu |
