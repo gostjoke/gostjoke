@@ -39,11 +39,11 @@
 | **IDE Prefer**                                  | Viusal Studio Code, Visual Studio, PyCharm|
 | **Domain Knownledge**                           | ML, DataBase, Office Automation, Web Scritping, SAP Scritping, Fullstack(Django), SupplyChain, SAP ERP (MM, FI) |
 | **CI / CD**                                     | Github, Git |
-| **Cloud**                                       | IBM Cloud   |
+| **Cloud/Platform**                              | IBM Cloud, Docker  |
 | **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
-| **OS**                                          | Windows, Ubuntu |
+| **OS**                                          | Windows, Ubuntu(Linux)|
 | **Tools & Platform**                            | HTML5/CSS|
-| **Machine Learning / Deep Learning frameworks** | Scikit-Learn,  matplotlib|
+| **Machine Learning / Deep Learning frameworks** | Scikit-Learn,  Matplotlib|
 
 
 - My home: San Jose
