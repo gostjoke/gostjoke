@@ -43,7 +43,7 @@
 | **OS**                                          | Windows, Ubuntu |
 | **Tools & Platform**                            | HTML5/CSS|
 | **Machine Learning / Deep Learning frameworks** | Scikit-Learn,  matplotlib|
-37.32803839872611, -121.9180914444955
+
 
 - My home: San Jose
   
