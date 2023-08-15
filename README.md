@@ -40,7 +40,7 @@
 | **Domain Knownledge**                           | ML, DataBase, Office Automation, Web Scritping, SAP Scritping, Fullstack(Django), SupplyChain, SAP ERP (MM, FI) |
 | **WEB Knownledge**                              | Python: [Django, Flask].     JavaScript: [Node.js, Express, React].     Other: [Postman, TCP/IP].
 | **CI / CD**                                     | Github, Git |
-| **Cloud/Platform**                              | IBM Cloud, Docker  |
+| **Cloud/Platform**                              | IBM Cloud  |
 | **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
 | **OS**                                          | Windows, Ubuntu(Linux)|
 | **Tools & Platform**                            | HTML5/CSS|
