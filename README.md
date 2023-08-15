@@ -32,7 +32,8 @@
 <img src="https://github.com/gostjoke/gostjoke/blob/main/assets/name.gif" alt="IMG Dead">  
 <!--   my-skils -->
 <hr>
-### <img height="30" src="https://user-images.githubusercontent.com/77757301/126855288-0264f667-f8be-4c1d-9fe0-d0049d751dba.gif"> Languages and tools: 
+<img height="30" src="https://user-images.githubusercontent.com/77757301/126855288-0264f667-f8be-4c1d-9fe0-d0049d751dba.gif"> Languages and tools: 
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
@@ -45,11 +46,11 @@
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title = "Docker"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title = "PostgreSQL"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title = "Python"/></code>
-
+<hr>
 
 | Property                                        | Data                                                                     |
 |-------------------------------------------------|--------------------------------------------------------------------------|
-| **Language**                                    | Python, SQL, ABAP, JavaScript, Html/CSS                                  |
+| **Language**                                    | Python, SQL, NOSQL, ABAP, JavaScript, Html/CSS                           |
 | **IDE Prefer**                                  | Viusal Studio Code, Visual Studio, PyCharm|
 | **Domain Knownledge**                           | ML, DataBase, Office Automation, Web Scritping, SAP Scritping, Fullstack(Django), SupplyChain, SAP ERP (MM, FI) |
 | **WEB Knownledge**                              | Python: [Django, Flask].     JavaScript: [Node.js, Express, React].     Other: [Postman, TCP/IP].
