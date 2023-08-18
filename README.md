@@ -29,8 +29,9 @@
 </body>
 </html>
 
+- **My Contributions**
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gostjoke/gostjoke/output/github-contribution-grid-snake.svg" />
-<img alt="snake eating my contributions" src="https://github.com/gostjoke/gostjoke/blob/output/github-contribution-grid-snake-dark.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gostjoke/gostjoke/output/github-contribution-grid-snake-dark.svg" />
 
 <img src="https://github.com/gostjoke/gostjoke/blob/main/assets/name.gif" alt="IMG Dead">  
 <!--   my-skils -->
