@@ -55,7 +55,7 @@
 | Property                                        | Data                                                                     |
 |-------------------------------------------------|--------------------------------------------------------------------------|
 | **Language**                                    | Python, SQL, NOSQL, ABAP, JavaScript, Html/CSS                           |
-| **IDE Prefer**                                  | Viusal Studio Code, Visual Studio, PyCharm|
+| **IDE Prefer**                                  | Viusal Studio Code, Visual Studio, PyCharm, Jupyter, Spyder|
 | **Domain Knownledge**                           | ML, DataBase, Office Automation, Web Scritping, SAP Scritping, Fullstack(Django), SupplyChain, SAP ERP (MM, FI) |
 | **WEB Knownledge**                              | Python: [Django, Flask].     JavaScript: [Node.js, Express, React].     Other: [Postman, TCP/IP].
 | **CI / CD**                                     | Github, Git |
