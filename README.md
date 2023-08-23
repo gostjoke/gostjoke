@@ -95,6 +95,27 @@
 <hr>
 **Django Skill**
 
+
+<hr>
+<div>Login page</div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/login.png?raw=true"> 
+<hr>
+<div>index page</div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/index.png?raw=true"> 
+<hr>
+<div>files</div>
+<a> Separate Views <a>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/files.png?raw=true"> 
+<hr>
+<div>Over Time list, ALL manager only can see their employee</div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/OverTime_list.png"> 
+<hr>
+<div> Form, I use model form and Widget to do this </div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/OverTime%20Form.png"> 
+<div> Manager only can choose their employee to apply Over Time </div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/Employid.png?raw=true"> 
+<div> return the ForeignKey to form </div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/employid.code.png?raw=true"> 
 - Still Working, picture will be added recenely.
 
 <!--
