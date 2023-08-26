@@ -116,6 +116,11 @@
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/Employid.png?raw=true"> 
 <div> return the ForeignKey to form </div>
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/employid.code.png?raw=true"> 
+<hr>
+<div> Create Multiple application </div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/mult_form.png?raw=true"> 
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/mult_form_code.png?raw=true"> 
+<hr>
 - Still Working, picture will be added recenely.
 
 <!--
