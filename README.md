@@ -106,9 +106,14 @@
 <div>files</div>
 <a> Separate Views <a>
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/files.png?raw=true"> 
+    
 <hr>
-<div>Over Time list, ALL manager only can see their employee</div>
-<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/OverTime_list.png"> 
+<div>Over Time list. ALL Managers only can see their employee and can delete their application</div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/OverTime_list.png?raw=true"> 
+    
+<div>For Approver; They can see and approve or disapprove the application</div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/approver.png?raw=true"> 
+
 <hr>
 <div> Form, I use model form and Widget to do this </div>
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/OverTime%20Form.png"> 
