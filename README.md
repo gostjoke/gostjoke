@@ -1,4 +1,4 @@
-![image](https://github.com/gostjoke/gostjoke/assets/66586152/8be6a51f-77ed-4202-bc01-dd5b87cc23aa)<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -129,6 +129,7 @@
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/mult_form_code.png?raw=true"> 
 <hr>
 <div> Modal Page Ajax upload </div>
+<img height="auto" src="https://github-production-user-asset-6210df.s3.amazonaws.com/66586152/271850832-8be6a51f-77ed-4202-bc01-dd5b87cc23aa.png"> 
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/functions.png?raw=true"> 
 <hr>
 - Still Working, picture will be added recenely.
