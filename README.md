@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+![image](https://github.com/gostjoke/gostjoke/assets/66586152/8be6a51f-77ed-4202-bc01-dd5b87cc23aa)<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -102,6 +102,7 @@
 <hr>
 <div>index page</div>
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/index.png?raw=true"> 
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/login_index.png?raw=true">
 <hr>
 <div>files</div>
 <a> Separate Views <a>
@@ -123,8 +124,12 @@
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/employid.code.png?raw=true"> 
 <hr>
 <div> Create Multiple application </div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/functions.png?raw=true">
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/mult_form.png?raw=true"> 
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/mult_form_code.png?raw=true"> 
+<hr>
+<div> Modal Page Ajax upload </div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/functions.png?raw=true"> 
 <hr>
 - Still Working, picture will be added recenely.
 
