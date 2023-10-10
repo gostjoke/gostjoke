@@ -57,13 +57,12 @@
 | **Language**                                    | Python, SQL, NOSQL, ABAP, JavaScript, Html/CSS                           |
 | **IDE Prefer**                                  | Viusal Studio Code, Visual Studio, PyCharm, Jupyter, Spyder|
 | **Domain Knownledge**                           | ML, DataBase, Office Automation, Web Scritping, SAP Scritping, Fullstack(Django), SupplyChain, SAP ERP (MM, FI) |
-| **WEB Knownledge**                              | Python: [Django, Flask].     JavaScript: [Node.js, Express, React].     Other: [Postman, TCP/IP].
+| **WEB Knownledge**                              | Python: [Django, Flask].     JavaScript: [Node.js, Vue, Express, React].     Other: [Postman, TCP/IP/Docker].
 | **CI / CD**                                     | Github, Git |
 | **Cloud/Platform**                              | IBM Cloud  |
 | **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
 | **OS**                                          | Windows, Ubuntu(Linux)|
-| **Tools & Platform**                            | HTML5/CSS|
-| **Machine Learning** | Scikit-Learn,  Matplotlib|
+| **Machine Learning** | Scikit-Learn,  Matplotlib, Tensorflow|
 
 
 - My home: San Jose
@@ -94,7 +93,9 @@
 ```
 <hr>
 **Django Skill**
-
+# Boostrap 3, Echart,
+<p> Current has been deployed in Company. </p>
+# This a early version.
 
 <hr>
 <div>Login page</div>
@@ -142,7 +143,9 @@
 <div> Use Echart To Visualize the Result </div>
 <img height="auto" src="https://github.com/gostjoke/Foxconn_OT_system/blob/main/pic/Echart_statics.png?raw=true">
 <hr>
-- Still Working, picture will be added recenely.
+- Still Working, More function will be added recenely;
+- Next Verson will use Vue + Django to separate Frontend and Beckend.
+.
 
 <!--
 **gostjoke/gostjoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
