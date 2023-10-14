@@ -97,11 +97,12 @@
 <p> Current has been deployed in Company. </p>
 # This a early version.
 <div>
+<a> I did many view in here if you want, you can visit this to see. </a>
 https://github.com/gostjoke/Foxconn_OT_system/tree/main
 </div>
 <hr>
 <div>Login page</div>
-<img height="auto" src="https://github.com/gostjoke/Foxconn_OT_system/blob/main/pic/login2.png?raw=true"> 
+<img height="auto" src="https://github.com/gostjoke/Foxconn_OT_system/blob/main/pic/login.png?raw=true"> 
 <hr>
 <div>files</div>
 <a> Separate Views <a>
