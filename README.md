@@ -93,7 +93,7 @@
 ```
 <hr>
 **Django Skill**
-**Boostrap 3, Echart**
+**Bootstrap 3, Echart**
 <p> Current has been deployed in Company. </p>
 # This a early version.
 <div>
