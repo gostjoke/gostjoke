@@ -23,7 +23,7 @@
     - 🌱 I’m currently learning Deep Learning, Full Stack (Django), Node.js, Vue3, AWS cloud, IBM cloud. 
     </div>
     <div>
-    - 🔭 Sorry, I am still working on this page...., will bring more good introduction to you!
+    - 🔭 Currently Testing the Llama(meta LLM). 
     </div>
   </div>
 </body>
@@ -62,7 +62,7 @@
 | **Cloud/Platform**                              | IBM Cloud  |
 | **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
 | **OS**                                          | Windows, Ubuntu(Linux)|
-| **Machine Learning** | Scikit-Learn,  Matplotlib, Tensorflow|
+| **Machine Learning** | Scikit-Learn,  Matplotlib, Tensorflow, Transformers|
 
 
 - My home: San Jose
@@ -108,9 +108,9 @@ https://github.com/gostjoke/Foxconn_OT_system/tree/main
 <a> Separate Views <a>
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/files.png?raw=true">   
 <hr>
-
-
-
+<h1> Llama2 7B-hf try</h1>h1>
+<img height="auto" src="https://github.com/gostjoke/Llama-7B-chat-hf-test/blob/main/picture/llama2_test.png?raw=true">   
+<hr>
 - Still Working, More function will be added recenely;
 - Next Verson will use Vue + Django to separate Frontend and Beckend.
 .
