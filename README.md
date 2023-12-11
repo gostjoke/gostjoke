@@ -108,8 +108,9 @@ https://github.com/gostjoke/Foxconn_OT_system/tree/main
 <a> Separate Views <a>
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/files.png?raw=true">   
 <hr>
-<h1> Llama2 7B-hf try</h1>h1>
-<img height="auto" src="https://github.com/gostjoke/Llama-7B-chat-hf-test/blob/main/picture/llama2_test.png?raw=true">   
+<h1> Llama2 7B-hf try</h1>
+<a href="https://github.com/gostjoke/Llama-7B-chat-hf-test/blob/main/Llama2.ipynb">link of Llama2 7B chat-hf test</a>
+<img height="auto" src="https://github.com/gostjoke/Llama-7B-chat-hf-test/blob/main/picture/llama2_test.png?raw=true">
 <hr>
 - Still Working, More function will be added recenely;
 - Next Verson will use Vue + Django to separate Frontend and Beckend.
