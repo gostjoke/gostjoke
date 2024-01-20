@@ -113,8 +113,15 @@ https://github.com/gostjoke/Foxconn_OT_system/tree/main
 <img height="auto" src="https://github.com/gostjoke/Llama-7B-chat-hf-test/blob/main/picture/llama2_test.png?raw=true">
 <hr>
 - Still Working, More function will be added recenely;
-- Next Verson will use Vue + Django to separate Frontend and Beckend.
-.
+<hr>
+Next Verson will use Vue3 + Django to separate Frontend and Beckend.
+<a href="https://github.com/gostjoke/Fox_SaaS_System/tree/main"> Fox_SaaS_System </a>
+<h1> Dashboard One </h1>
+<img height="auto" src="https://github.com/gostjoke/Fox_SaaS_System/blob/main/picture/Dashboard.png?raw=true">
+<hr>
+<h1> Framework </h1>
+<img height="auto" src="https://github.com/gostjoke/Fox_SaaS_System/blob/main/picture/Framework.png?raw=true">
+<hr>
 
 <!--
 **gostjoke/gostjoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
