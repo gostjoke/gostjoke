@@ -20,7 +20,7 @@
     <span> - ⚡ Beginner in: C++, C# </span>
     </div>
     <div>
-    - 🌱 I’m currently learning Deep Learning, Full Stack (Django), Node.js, Vue3, AWS cloud, IBM cloud. 
+    - 🌱 I’m currently learning Deep Learning, Full Stack (Django), Node.js, React, AWS cloud, IBM cloud. 
     </div>
     <div>
     - 🔭 Currently Testing the Llama(meta LLM). 
@@ -101,8 +101,24 @@
 https://github.com/gostjoke/Foxconn_OT_system/tree/main
 </div>
 <hr>
+<h1>SaaS Platform<h1/> 
+<h5>Will be Replaced by SaaS2<h5/>
 <div>Login page</div>
 <img height="auto" src="https://github.com/gostjoke/Foxconn_OT_system/blob/main/pic/login.png?raw=true"> 
+<hr>
+<div>Service Choice</div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_Service.png?raw=true">    
+<hr>
+<div>Price_Reversal_Approve System</div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_Price_Reversal.png?raw=true">    
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_Price_Reversal_Approve.png?raw=true"> 
+<hr>
+<div>Production Schedule</div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_Production_schdule.png?raw=true">    
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_Production_schdule_Wo.png?raw=true"> 
+<hr>
+<div>HTS Code Search</div>
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_HTS.png?raw=true">    
 <hr>
 <div>files</div>
 <a> Separate Views <a>
