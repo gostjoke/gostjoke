@@ -101,7 +101,8 @@
 https://github.com/gostjoke/Foxconn_OT_system/tree/main
 </div>
 <hr>
-<h1>SaaS Platform<h1/> 
+<h1>SaaS Platform<h1/>
+<p>Start from 2023 July<p/>
 <h5>Will be Replaced by SaaS2<h5/>
 <div>Login page</div>
 <img height="auto" src="https://github.com/gostjoke/Foxconn_OT_system/blob/main/pic/login.png?raw=true"> 
@@ -114,31 +115,46 @@ https://github.com/gostjoke/Foxconn_OT_system/tree/main
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_Price_Reversal_Approve.png?raw=true"> 
 <hr>
 <div>Production Schedule</div>
-<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_Production_schdule.png?raw=true">    
+<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_Production_schdule.png?raw=true">
+<div>Production Schedule Main Table</div>
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_Production_schdule_Wo.png?raw=true"> 
 <hr>
 <div>HTS Code Search</div>
 <img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/SaaS1_HTS.png?raw=true">    
 <hr>
-<div>files</div>
-<a> Separate Views <a>
-<img height="auto" src="https://github.com/gostjoke/gostjoke/blob/main/Django/files.png?raw=true">   
+<hr>
+Next Verson will use React + Django + Golang (go api chi) to separate Frontend and Beckend.
+<div><p>Start from 2024 August<p/></div>
+<a href="https://github.com/gostjoke/Foxconn_React_System"> Fox_SaaS_System </a>
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/SaaS2_login.png?raw=true">   
+<div> Separate Views <div/>
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/SaaS2_VSC.png?raw=true">   
+<hr>
+<h1> Chart </h1>
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/SaaS2_Data_Chart.png?raw=true">   
+<hr>
+<h1> Table </h1>
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/SaaS2_Table.png?raw=true">   
+<hr>
+<h1> Dark Mode </h1>
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/SaaS2_Dark_Mode.png?raw=true">   
+<hr>
+<h1> Dark Mode </h1>
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/JWTtoken.png?raw=true">   
 <hr>
 <h1> Llama2 7B-hf try</h1>
 <a href="https://github.com/gostjoke/Llama-7B-chat-hf-test/blob/main/Llama2.ipynb">link of Llama2 7B chat-hf test</a>
 <img height="auto" src="https://github.com/gostjoke/Llama-7B-chat-hf-test/blob/main/picture/llama2_test.png?raw=true">
 <hr>
-- Still Working, More function will be added recenely;
-<hr>
-Next Verson will use Vue3 + Django to separate Frontend and Beckend.
-<a href="https://github.com/gostjoke/Fox_SaaS_System/tree/main"> Fox_SaaS_System </a>
-<h1> Dashboard One </h1>
-<img height="auto" src="https://github.com/gostjoke/Fox_SaaS_System/blob/main/picture/Dashboard.png?raw=true">
-<hr>
-<h1> Framework </h1>
-<img height="auto" src="https://github.com/gostjoke/Fox_SaaS_System/blob/main/picture/Framework.png?raw=true">
-<hr>
-
+<h1>Llama Factory<h1/>
+<a href="https://github.com/gostjoke/Llama3-fine-tuning"><a/>
+<div>LLama Factory Fine Tuning</div>
+<img height="auto" src="https://github.com/gostjoke/Llama3-fine-tuning/blob/main/test_image/llama_factory_llama2_train.png?raw=true">   
+<div>Colab Train</div>
+<img height="auto" src="https://github.com/gostjoke/Llama3-fine-tuning/blob/main/test_image/colab_test_success.png?raw=true">  
+<div>Deployed on GPT4All and get the API</div>
+<img height="auto" src="https://github.com/gostjoke/Llama3-fine-tuning/blob/main/test_image/gpt4all_api.png?raw=true">  
+    
 <!--
 **gostjoke/gostjoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
