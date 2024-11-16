@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/302ec96c-bd5d-4b94-bf08-83222c177ce2)
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -130,8 +130,17 @@ Next Verson will use React + Django + Golang (go api chi) to separate Frontend a
 <div> Separate Views <div/>
 <img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/SaaS2_VSC.png?raw=true">   
 <hr>
-<h1> Chart </h1>
-<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/SaaS2_Data_Chart.png?raw=true">   
+<div> Part number change control <div/>
+<h1> Departments </h1>
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/Departmentpage.png?raw=true">
+<h1> EChart Statics </h1>    
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/PNCEchart.png?raw=true">
+<h1> Applications </h1>
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/PNCapplication.png?raw=true">
+<h1> Applications Details </h1>
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/PNCdetail.png?raw=true">
+<h1> Applications Details Extend </h1>
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/PNC_detailExtend.png?raw=true">
 <hr>
 <h1> Table </h1>
 <img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/SaaS2_Table.png?raw=true">   
@@ -140,7 +149,7 @@ Next Verson will use React + Django + Golang (go api chi) to separate Frontend a
 <img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/SaaS2_Dark_Mode.png?raw=true">   
 <hr>
 <h1> Dark Mode </h1>
-<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/JWTtoken.png?raw=true">   
+<img height="auto" src="https://github.com/gostjoke/Foxconn_React_System/blob/main/SaaS2/JWTtoken.png?raw=true">  
 <hr>
 <h1> Llama2 7B-hf try</h1>
 <a href="https://github.com/gostjoke/Llama-7B-chat-hf-test/blob/main/Llama2.ipynb">link of Llama2 7B chat-hf test</a>
