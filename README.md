@@ -57,7 +57,7 @@
 | **Language**                                    | Python, SQL, NOSQL, ABAP, JavaScript, Html/CSS                           |
 | **IDE Prefer**                                  | Viusal Studio Code, Visual Studio, PyCharm, Jupyter, Spyder|
 | **Domain Knownledge**                           | ML, DataBase, Office Automation, Web Scritping, SAP Scritping, Fullstack(Django), SupplyChain, SAP ERP (MM, FI) |
-| **WEB Knownledge**                              | Python: [Django, Flask].     JavaScript: [Node.js, Vue, Express, React].     Other: [Postman, TCP/IP/Docker].
+| **WEB Knownledge**                              | Golang Python: [Django, Flask].     JavaScript: [Node.js, Express, React].     Other: [Postman, TCP/IP/Docker].
 | **CI / CD**                                     | Github, Git |
 | **Cloud/Platform**                              | IBM Cloud  |
 | **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
