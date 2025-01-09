@@ -54,13 +54,15 @@
 
 | Property                                        | Data                                                                     |
 |-------------------------------------------------|--------------------------------------------------------------------------|
-| **Language**                                    | Python, SQL, NOSQL, ABAP, JavaScript, Html/CSS                           |
-| **IDE Prefer**                                  | Viusal Studio Code, Visual Studio, PyCharm, Jupyter, Spyder|
+| **FrontEnd**                                    | Html/CSS(Bootstrap3), JavaScript, React(MUI, AG Grid, Axios)                            |
+| **BackEnd**                                    | Python, Node.js, Golang                  |
+| **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python), PostgreSQL |
+| **IDE Prefer**                                  | Viusal Studio Code, Visual Studio, PyCharm, Jupyter NoteBook, Spyder|
 | **Domain Knownledge**                           | ML, DataBase, Office Automation, Web Scritping, SAP Scritping, Fullstack(Django), SupplyChain, SAP ERP (MM, FI) |
-| **WEB Knownledge**                              | Golang Python: [Django, Flask].     JavaScript: [Node.js, Express, React].     Other: [Postman, TCP/IP/Docker].
+| **WEB Knownledge**                              | Golang:[Beego] Python: [Django, Flask].     JavaScript: [Node.js, Express, React].     Other: [Postman, TCP/IP/Docker]|
+| **AI Experience**     | Lama fine-tune with LamaFactory |
 | **CI / CD**                                     | Github, Git |
 | **Cloud/Platform**                              | IBM Cloud  |
-| **Databases**                                   | MySQL, MSSQL, SQLite, Pyodbc(python) |
 | **OS**                                          | Windows, Ubuntu(Linux)|
 | **Machine Learning** | Scikit-Learn,  Matplotlib, Tensorflow, Transformers|
 
